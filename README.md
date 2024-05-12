@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](http://alok-verma-portfolio.vercel.app/)
 
-- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1Ck7vymgo5EidvRVozumFZPtScq7xNyl4/view)
+- 📄 Know about my experiences in my [Resume](https://res.cloudinary.com/duzqfeg7z/image/upload/v1714196974/jemmxghje1vka3uhqsum.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
