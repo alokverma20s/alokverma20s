@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://alokverma-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](http://alok-verma-portfolio.vercel.app/)
 
-- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/16H9EbB4KbRjswc8mqg7AMk9c661QBVpT/view?usp=sharing)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1Ck7vymgo5EidvRVozumFZPtScq7xNyl4/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
